@@ -27,6 +27,7 @@ _Unlike regression where you predict a continuous number, you use classification
 
 > Classification is widely used in applications like fraud detection, recommendation systems, and predictive analytics, making it a cornerstone of machine learning.
 
+---
 ## Continuous number Vs Category
 ### Continuous Number
 > Continuous numbers represent data that can take any value within a specified range. They are numeric and can include fractions or decimals. These values are measured rather than counted and typically represent quantities.
