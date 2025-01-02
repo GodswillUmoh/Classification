@@ -1,6 +1,6 @@
 # Classification
 It can simply be defined as a machine learning technique to identify the category of new observations based on training data unlike regression that predict continuous number
-
+Popular examples of classification are: predicting customers who are likely to stay or leave, spam mail or not spam, image recognition, classifying as dogs or cats
 ---
 
 ## Explanation
